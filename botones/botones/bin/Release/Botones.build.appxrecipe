@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALEJANDRO</Machine>
+    <WindowsUser>ALEJANDRO 8</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9daa8b7f-fbce-4b27-8093-ddd2780f559d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Release\Botones.dll">
+      <PackagePath>Botones.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\kakashi.jpg">
+      <PackagePath>kakashi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

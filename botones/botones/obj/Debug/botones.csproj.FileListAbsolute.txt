@@ -1,0 +1,105 @@
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Botones.dll
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Botones.pdb
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\resources.pri
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\AppxManifest.xml
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Botones.build.appxrecipe
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\Bin\Debug\Botones_Debug_AnyCPU.xap
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\MainPage.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\Botones.g.resources
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\Botones.Resources.AppResources.resources
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\Botones.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\Botones.dll
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\Botones.pdb
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\priconfig.xml
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\priconfig.xml.intermediate
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\layout.resfiles
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\layout.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\resources.resfiles
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\resources.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\pri.resfiles
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\pri.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\qualifiers.txt
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\qualifiers.txt.intermediate
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\ProjectArchitectures.txt
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\MDILProjectFiles.xml
+c:\users\user\documents\visual studio 2013\Projects\Botones\Botones\obj\Debug\XapCacheFile.xml
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Botones.dll
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Botones.pdb
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\resources.pri
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\AppxManifest.xml
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Botones.build.appxrecipe
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\AppManifest.xaml
+C:\Users\Mobile 14\Downloads\Botones\Botones\Bin\Debug\Botones_Debug_AnyCPU.xap
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\App.g.cs
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\MainPage.g.cs
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\Botones.g.resources
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\Botones.Resources.AppResources.resources
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\Botones.csproj.GenerateResource.Cache
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\Botones.dll
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\Botones.pdb
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\priconfig.xml
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\layout.resfiles
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\resources.resfiles
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\pri.resfiles
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\qualifiers.txt
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\MDILProjectFiles.xml
+C:\Users\Mobile 14\Downloads\Botones\Botones\obj\Debug\XapCacheFile.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Botones.dll
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Botones.pdb
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\resources.pri
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\AppxManifest.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Botones.build.appxrecipe
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\AppManifest.xaml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\Bin\Debug\Botones_Debug_AnyCPU.xap
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\App.g.cs
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\MainPage.g.cs
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\Botones.g.resources
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\Botones.Resources.AppResources.resources
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\Botones.csproj.GenerateResource.Cache
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\Botones.dll
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\Botones.pdb
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\priconfig.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\priconfig.xml.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\layout.resfiles
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\layout.resfiles.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\resources.resfiles
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\resources.resfiles.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\pri.resfiles
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\pri.resfiles.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\qualifiers.txt
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\ProjectArchitectures.txt
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\MDILProjectFiles.xml
+C:\Users\ALEJANDRO 8\Documents\Visual Studio 2013\Projects\botones\Botones\obj\Debug\XapCacheFile.xml
